@@ -3,8 +3,9 @@
 ## GitHub Contributions!
 
 <a href="https://honzaap.github.io/GithubCity/?name=A-yum3&year=2022">
-  <img src="https://user-images.githubusercontent.com/36401898/179360051-33e6cb3a-54b7-4afd-b398-016aaf5ca732.gif">
+	<img src="https://user-images.githubusercontent.com/36401898/198923899-f6043145-e258-4310-99f5-840ea66b7fd5.gif">
 </a>
+
 
 ## Badges
 <p align="left">
