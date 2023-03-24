@@ -3,7 +3,7 @@
 ## GitHub Contributions!
 
 <a href="https://honzaap.github.io/GithubCity/?name=A-yum3&year=2022">
-	<img src="https://user-images.githubusercontent.com/36401898/198923899-f6043145-e258-4310-99f5-840ea66b7fd5.gif">
+	<img src="https://user-images.githubusercontent.com/36401898/227411074-d7ab8dd3-2928-4040-b5b5-a26cff249122.gif">
 </a>
 
 
